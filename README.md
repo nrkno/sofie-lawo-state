@@ -1,8 +1,8 @@
-[![CircleCI](https://circleci.com/bb/superflytv/node-boilerplate.svg?style=svg&circle-token=cab68274787655e03cdd7be318fe32670b026a97)](https://circleci.com/bb/superflytv/node-boilerplate)
+[![CircleCI](https://circleci.com/gh/nrkno/tv-automation-lawo-state.svg?style=svg)](https://circleci.com/gh/nrkno/tv-automation-lawo-state)
 
-# SuperFly.tv Typescript boiler plate
+# lawo-state
 
-This is the boiler plate for new repositories created by SuperFly.tv
+Based on the boiler plate created by SuperFly.tv & [SNES consulting](emailto:stephanruler@gmail.com)
 
 ## Technology highlights
 - Typescript
