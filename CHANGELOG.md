@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.6.2"></a>
+## [0.6.2](https://bitbucket.org/nrkno/tv-automation-lawo-state/compare/0.6.1...0.6.2) (2018-09-04)
+
+
+
 <a name="0.6.1"></a>
 ## [0.6.1](https://bitbucket.org/nrkno/tv-automation-lawo-state/compare/0.6.0...0.6.1) (2018-06-15)
 

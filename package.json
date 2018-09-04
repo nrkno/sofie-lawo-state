@@ -1,6 +1,6 @@
 {
   "name": "lawo-state",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Typescript Node.js library boilerplate for SuperFly.tv",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
