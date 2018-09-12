@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/bb/superflytv/node-boilerplate.svg?style=svg&circle-token=cab68274787655e03cdd7be318fe32670b026a97)](https://circleci.com/bb/superflytv/node-boilerplate)
 
-# Sofie: The Modern TV News Studio Automation System (lawo-state)
+# Sofie: The Modern TV News Studio Automation System (Lawo State library)
 
 Simple state model for basic Lawo audio mixer features, designed for Ember+ compliance.
 
