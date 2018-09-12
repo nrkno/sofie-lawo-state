@@ -2,6 +2,7 @@
 
 # Sofie: The Modern TV News Studio Automation System (lawo-state)
 
+Simple state model for basic Lawo audio mixer features, designed for Ember+ compliance.
 
 
 ## Technology highlights
