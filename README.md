@@ -2,7 +2,7 @@
 
 # Sofie: The Modern TV News Studio Automation System (Lawo State library)
 
-Simple state model for basic Lawo audio mixer features, designed for Ember+ compliance.
+This library is used in the [**Sofie** TV News Studio Automation System](https://github.com/nrkno/Sofie-TV-automation/) as a simple state model for basic Lawo audio mixer features, designed for Ember+ compliance.
 
 
 ## Technology highlights
