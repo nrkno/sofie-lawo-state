@@ -1,4 +1,4 @@
-import {Datetime} from './../Datetime'
+import { Datetime } from './../Datetime'
 
 test('Schema for Datetime', () => {
 	let schema = new Datetime()

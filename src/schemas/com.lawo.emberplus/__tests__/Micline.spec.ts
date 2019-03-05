@@ -1,4 +1,4 @@
-import {Micline} from './../Micline'
+import { Micline } from './../Micline'
 
 test('Schema for Micline', () => {
 	let schema = new Micline()

@@ -1,4 +1,4 @@
-import {Preamp} from './../Preamp'
+import { Preamp } from './../Preamp'
 
 test('Schema for Preamp', () => {
 	let schema = new Preamp()

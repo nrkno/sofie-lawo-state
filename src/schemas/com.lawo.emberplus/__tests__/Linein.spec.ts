@@ -1,4 +1,4 @@
-import {Linein} from './../Linein'
+import { Linein } from './../Linein'
 
 test('Schema for Lineine', () => {
 	let schema = new Linein()
