@@ -1,4 +1,4 @@
-import {Schema, AbstractSchema} from './../Schema'
+import { Schema, AbstractSchema } from './../Schema'
 
 export namespace com.lawo.emberplus {
 
