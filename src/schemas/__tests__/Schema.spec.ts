@@ -1,4 +1,4 @@
-import {AbstractSchema} from './../Schema'
+import { AbstractSchema } from './../Schema'
 test('Schema', () => {
 	let schema = new AbstractSchema()
 
