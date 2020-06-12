@@ -1,3 +1,5 @@
+**This repo is deprecated due to it never being used by the authors, and therefore no longer maintained**
+
 [![CircleCI](https://circleci.com/gh/nrkno/tv-automation-lawo-state.svg?style=svg)](https://circleci.com/gh/nrkno/tv-automation-lawo-state)
 
 # Sofie: The Modern TV News Studio Automation System (Lawo State library)
